@@ -1,0 +1,2 @@
+# 📊 Competitor Analysis
+Several blockchain projects have explored the integration of AI with decentralized networks, including [LayerAI](https://www.layerai.org/), [Chainlink](https://chain.link/), and [Near](https://near.org/). While these projects focus on specific AI applications, such as machine learning-based automation and AI-assisted trading, NexChain differentiates itself by integrating AI at the protocol level to enhance network operations, security, and governance.
